@@ -5,7 +5,7 @@ Frontend Engineer | [oscarlanda.com](https://oscarlanda.com) | [linkedin.com/in/
 
 <hr>
 
-🌵 &nbsp; Austin, TX
+🌵 &nbsp; San Carlos, CA
 
 🌲 &nbsp; Lover of the Outdoors
 
