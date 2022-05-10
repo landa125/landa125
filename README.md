@@ -1,5 +1,8 @@
 ### Hi there 👋
 - ⚡ Fun fact: Took on the journey of programing the world.
+
+Frontend Engineer | [oscarlanda.com](https://oscarlanda.com)
+
 <hr>
 
 🌵 &nbsp; Austin, TX
