@@ -1,6 +1,14 @@
 ### Hi there 👋
 - ⚡ Fun fact: Took on the journey of programing the world.
+<hr>
 
+🌵 &nbsp; Austin, TX
+
+🌲 &nbsp; Lover of the Outdoors
+
+📚 &nbsp; Always Learning
+
+<hr>
 
 <!--
 **landa125/landa125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
