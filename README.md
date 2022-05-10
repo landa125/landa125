@@ -1,5 +1,4 @@
 ### Hi there 👋
-- ⚡ Fun fact: Took on the journey of programing the world.
 
 Frontend Engineer | [oscarlanda.com](https://oscarlanda.com) | [linkedin.com/in/olandaa](https://www.linkedin.com/in/olandaa/)
 
