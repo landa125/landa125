@@ -12,19 +12,27 @@ Frontend Engineer | [oscarlanda.com](https://oscarlanda.com) | [linkedin.com/in/
 
 <hr>
 
-:Tools-CSS:
+## Tools-CSS:
 
 - 🔭 W3.css
 - CSS Tailwwind
 - BOOSTRAP 3.-5.Version
 
-:Design Tools:
+## Design Tools:
 - Figma 
 - Adobe XD
 - Iconify
 - BS-Icons
 - Material Design
 - Window UX/UI
+
+# Develop Tools
+- NPM
+- Webpack
+- Babel
+- VS Code
+- Codebox
+- StackBlitz
 
 
 <!--
