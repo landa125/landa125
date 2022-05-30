@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Engineer | [oscarlanda.com](https://oscarlanda.com) | [linkedin.com/in/olandaa](https://www.linkedin.com/in/olandaa/)
+Frontend Engineer | [oscarlanda.com](https://oscarlanda.com) | [linkedin.com/in/olandaa](https://www.linkedin.com/in/olandaa/) | 🌵 &nbsp; San Carlos, CA
 
 <hr>
 
