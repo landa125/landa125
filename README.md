@@ -3,9 +3,6 @@
 Frontend Engineer | [oscarlanda.com](https://oscarlanda.com) | [linkedin.com/in/olandaa](https://www.linkedin.com/in/olandaa/) | 🌵 &nbsp; San Carlos, CA
 
 <hr>
-
-🌵 &nbsp; San Carlos, CA
-
 🌲 &nbsp; Lover of the Outdoors
 
 📚 &nbsp; Always Learning
